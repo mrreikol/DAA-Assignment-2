@@ -1,0 +1,9 @@
+DataStructure,N,Operations,AvgTimeNs,AvgAccesses,TheoreticalComplexity
+DynamicArray,100,10000,314800,10000,Theta(1)
+LinkedList,100,10000,829100,254380,Theta(n)
+DynamicArray,1000,10000,32100,10000,Theta(1)
+LinkedList,1000,10000,3535320,2495234,Theta(n)
+DynamicArray,10000,10000,248120,10000,Theta(1)
+LinkedList,10000,10000,36910780,25055596,Theta(n)
+DynamicArray,100000,10000,412480,10000,Theta(1)
+LinkedList,100000,10000,598303060,250442582,Theta(n)

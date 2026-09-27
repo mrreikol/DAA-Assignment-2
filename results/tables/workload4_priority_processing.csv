@@ -1,0 +1,5 @@
+DataStructure,N,AvgInsertTimeNs,AvgExtractTimeNs,AvgComparisons,AvgMovements,TheoreticalInsert,TheoreticalExtract
+MinHeap,100,61920,31640,1053,921,O(log n),O(log n)
+MinHeap,1000,39680,85440,17240,12597,O(log n),O(log n)
+MinHeap,10000,238580,762500,239283,159501,O(log n),O(log n)
+MinHeap,100000,1289960,8146060,3059792,1928961,O(log n),O(log n)
